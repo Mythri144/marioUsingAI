@@ -1,0 +1,68 @@
+.header{
+    width: 100%;
+    text-align: left;
+}
+
+.header h3{
+    display: inline;
+    font-size: 30px;
+}
+
+.header button{
+    float: right;
+    border: 1px solid whitesmoke;
+    font-size: medium;
+}
+
+.header button:hover{
+    border-color: dodgerblue;
+}
+
+.bg_img{
+    width: 100%;
+}
+
+#start, #status{
+    font-size: x-large;
+}
+
+.citation{
+    background-color: rgb(230, 246, 241);
+    margin: 0px;
+    line-height: 3;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    border-radius: 4px;
+}
+
+.modal-dialog{
+    width: 87%;
+}
+
+.instruction_image{
+    display: inline-block;
+    width: 43.5%;
+}
+
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 47px;
+    border-radius: 10px;
+}
+
+body{
+    padding-bottom: 40px;;
+}
+
+/* .moveable_img{
+    position: static;
+}
+
+.rest_of_the_elements{
+    position: absolute;
+} */
+
+/* control k+u */
